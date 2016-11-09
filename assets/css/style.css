@@ -1,0 +1,5 @@
+#yo {
+    position: absolute;
+    width: calc(600px * .5);
+    height: calc(930px * .5);
+}
